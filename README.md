@@ -134,4 +134,6 @@ python main.py
 
 ## License
 
-MIT License — free to use, modify, and distribute.
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for full details.
+
+Copyright (c) 2026 pkgmalinda@gmail.com
